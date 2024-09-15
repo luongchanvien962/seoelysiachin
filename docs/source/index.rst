@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Elysia Chin - Một nhà lãnh đạo tài năng trong ngành truyền thông tại Việt Nam.
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Elysia Chin <https://tintucgaiviet.com/tac-gia-ceo-elysia-chin/>`_ sinh năm 1990, là một nhà lãnh đạo tài năng trong ngành truyền thông tại Việt Nam. Với hơn 10 năm kinh nghiệm trong nhiều lĩnh vực khác nhau như báo chí, hướng dẫn viên du lịch và quan hệ công chúng. Elysia Chin đã không ngừng mở rộng kỹ năng và tầm ảnh hưởng của mình. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Cô bắt đầu sự nghiệp với vai trò nhà báo, tiếp tục phát triển khả năng giao tiếp và kết nối qua công việc hướng dẫn viên du lịch. Đặc biệt, kinh nghiệm trong quan hệ công chúng đã giúp cô khẳng định sự chuyên nghiệp và sáng tạo trong việc xây dựng và duy trì các mối quan hệ quan trọng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 30E Hẻm F5, Vĩnh Lộc A, Bình Chánh, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Website: https://tintucgaiviet.com/tac-gia-ceo-elysia-chin/
 
-.. toctree::
+Hotline: 0926544087
 
-   usage
-   api
+Email: tintucgaiviet@support.com
+
+#tintucgaiviet #hinhanhgaiviet #gaivietnam #scandal #tinhot
